@@ -1,13 +1,9 @@
-<h2 align="left">Bem vindo aos meus projetos!</h2>
-
-###
-
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgolden&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Tech+Researcher+%26+Builder+%F0%9F%94%AC;LLMs+%7C+Data+%7C+Automation+7%+Web)](https://git.io/typing-svg)
+
+</div>
 
 ## `$ ls ./stack`
 
@@ -24,13 +20,6 @@
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=00d9ff)
 
 </div>
-
-###
-
-<h4 align="left"> Developer & Entrepreneur </h4>
-<p align="left">Acesse a minha agência e veja mais.</p>
-
-###
 
 <div align="righ">
   <a href="https://www.instagram.com/oce.tech?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
